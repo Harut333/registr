@@ -20,7 +20,7 @@ signUp.addEventListener("click", (e) => {
         login.value = ""
         pass.value = ""
         setTimeout(() => {
-            window.location = "../index.html"
+            window.location = "index.html"
         }, 2000);
 
     }
